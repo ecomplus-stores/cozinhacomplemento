@@ -3,13 +3,13 @@
   "currency_symbol": "R$",
   "primary_color": "#e9ba04",
   "theme": {
-    "bootswatch": "simplex",
+    "bootswatch": "_",
     "custom": "clean-dark"
   },
   "bg_color": "#232020",
   "repository": "ecomplus-stores/cozinhacomplemento",
   "logo": "/img/uploads/res-500.jpg",
-  "name": "cozinhacomplemento",
+  "name": "Cozinha & Complemento",
   "short_name": "cozinhacomplemento",
   "lang": "pt_br",
   "currency": "BRL",
@@ -19,8 +19,8 @@
   "icons_font": "feather-icons",
   "country_code": "BR",
   "secondary_color": "#00ff2d",
-  "icon": "/img/uploads/arquitetura-engenharia-design-interiores.jpg",
+  "icon": "/img/uploads/logo-face.jpg",
   "store_id": 31553,
   "description": "cozinhacomplemento",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo-face.jpg"
 }
