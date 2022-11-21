@@ -1,7 +1,7 @@
 {
   "domain": "cozinhacomplemento.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e9ba04",
+  "primary_color": "#00ff2b",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-dark"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-face.jpg",
   "icons_font": "feather-icons",
   "country_code": "BR",
-  "secondary_color": "#00ff2d",
+  "secondary_color": "#00b3c6",
   "icon": "/img/uploads/logo-face.jpg",
   "store_id": 31553,
   "description": "cozinhacomplemento",
