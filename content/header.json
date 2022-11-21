@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Aproveite Agora Nossas Promoções...!",
     "link": "/promotion",
-    "background": "#b0bc5e"
+    "background": "#b0bc5e",
+    "color": "#00b1ff"
   },
   "contacts_stripe": {
     "pages": [
@@ -11,10 +12,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      },
-      {}
+        "title": "Sua Loja Virtual"
+      }
     ],
     "phone_wpp": true,
     "socials": true
