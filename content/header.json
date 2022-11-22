@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Aproveite Agora Nossas Promoções...!",
     "link": "/promotion",
-    "background": "#b0bc5e",
-    "color": "#00b1ff"
+    "background": "#000000",
+    "color": "#0df919"
   },
   "contacts_stripe": {
     "pages": [
