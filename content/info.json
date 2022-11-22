@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "CONSULTE O FRETE E CONDIÇÕES PARA SUA REGIÃO."
   },
   "installments": {
     "show": true,
@@ -14,7 +14,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!",
+    "text": "Promoções Imperdíveis...!",
     "title": "Aproveite Nossas Promoções"
   }
 }
