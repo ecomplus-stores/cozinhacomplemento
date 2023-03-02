@@ -5,8 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros",
-    "title": "Parcele sem Juros no Card com a InfinitePay ou Requisite um Link Pagto com Parcelamento sem Juros."
+    "text": "InfinitePay",
+    "title": "Parcele Sem Juros com LinkPay"
   },
   "exchange": {
     "show": true,
