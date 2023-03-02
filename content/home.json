@@ -1,10 +1,10 @@
 {
   "meta_title": "COZINHA ELEGANCE",
-  "meta_description": "Cozinha Moderna com Configuração Ajustável ao Seu Estilo.",
+  "meta_description": "Cozinha Moderna Configuração Ajustável ao Seu Estilo.",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 10000,
+      "autoplay": 100,
       "full_width": true,
       "slides": [
         {
@@ -21,6 +21,12 @@
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img-render-real-1.jpg",
+          "link": "Estofados"
         }
       ]
     },
