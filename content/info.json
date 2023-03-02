@@ -5,13 +5,13 @@
   },
   "installments": {
     "show": true,
-    "text": "InfinitePay",
-    "title": "Parcele Sem Juros com LinkPay"
+    "text": "LINKPAY",
+    "title": "PARCELE SEM JUROS..."
   },
   "exchange": {
     "show": true,
     "text": "",
-    "title": "Acesse Nosso E-mail de Contato."
+    "title": "ACESSE NOSSO E-MAIL..."
   },
   "promo": {
     "show": true,
