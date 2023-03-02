@@ -11,22 +11,23 @@
           "img": "/img/uploads/cozinhas.jpg",
           "link": "Cozinha Black",
           "alt": "Closets",
-          "start": "2023-03-02T20:00:46.514Z",
+          "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/closets.jpg"
+          "mobile_img": "/img/uploads/cozinhas.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/closets.jpg",
           "alt": "Closets",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/closets.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/img-render-real-1.jpg",
-          "link": "Estofados"
+          "link": "Estofados",
+          "mobile_img": "/img/uploads/img-render-real-1.jpg"
         }
       ]
     },
@@ -41,7 +42,7 @@
       "sort": "offers",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 7,
       "page": 1
     },
     {
