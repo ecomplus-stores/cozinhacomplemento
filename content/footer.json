@@ -41,8 +41,9 @@
     "paypal": false,
     "citibank": false,
     "mais": true,
+    "pix": true,
     "amex": true,
     "itau": false
   },
-  "credits": "PIX"
+  "credits": ""
 }
