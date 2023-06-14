@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.aca329dd56d0a5ce79e92518a16fac18.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.e25c077aee2079debcdec6edca5a69a7.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.1fede659458ec7e416b95bf757ceeebf.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.92d19defeaf092a1c1bf5175e49edec4.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.5d5c0a66a970aae77d09fd8b6be1def9.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Cozinha & Complemento",
+  "short_name": "Cozinha & Complemento",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Cozinha & Complemento\n    Somos Especialistas no Planejamento e Produção de Ambientes Corporativos e Residenciais\ncom Foco no Estilo e Elegância Valorizando ao Máximo cada Ambiente Planejado. ",
+  "background_color": "#232020",
+  "theme_color": "#00ff2b"
+}
